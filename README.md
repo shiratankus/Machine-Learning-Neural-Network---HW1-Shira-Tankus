@@ -25,6 +25,9 @@ cd Machine-Learning-Neural-Network---HW1-Shira-Tankus
 Click Code → Codespaces → Create codespace on main. The data file is downloaded automatically.
 
 **Running the notebook**
+
 Make sure v1-v2_gratings.zip is in the same folder as the notebook (the notebook unzips it automatically).
+
 Open HW 1.ipynb in Jupyter, VS Code, or Codespaces.
+
 Run all cells (Run All).
