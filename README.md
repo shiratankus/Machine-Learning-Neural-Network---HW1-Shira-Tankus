@@ -14,8 +14,11 @@ Save it in the same folder as the notebook.
 ## Option 2: Clone with Git LFS
 
 git lfs install
+
 git clone https://github.com/shiratankus/Machine-Learning-Neural-Network---HW1-Shira-Tankus.git
+
 cd Machine-Learning-Neural-Network---HW1-Shira-Tankus
+
 (If the zip is only ~1 KB after cloning, run git lfs pull.)
 
 ## Option 3: Open in GitHub Codespaces 
